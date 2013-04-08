@@ -1,4 +1,3 @@
-
 import java.util.ArrayList;
 
 class firstThread implements Runnable{
@@ -17,7 +16,7 @@ class firstThread implements Runnable{
 				list.add(i*3);
 				i++;
 				}	
-				//System.out.print(list);		
+					
 		}
 				
 }
